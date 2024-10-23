@@ -1,5 +1,5 @@
 {
-	"name": "RedVip",
+	"name": "GO88",
 	"version": "1.17.02",
 	"description": "Server game By MrT98 (Red T)",
 	"main": "server.js",
@@ -44,16 +44,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MrT98/RedVip.git"
+		"url": "git+https://github.com/sunrai69/GO88"
 	},
-	"homepage": "https://github.com/MrT98/RedVip",
+	"homepage": "https://github.com/sunrai69/GO88",
 	"bugs": {
-		"url": "https://github.com/MrT98/RedVip/issues"
+		"url": "https://github.com/sunrai69/GO88/issues"
 	},
 	"author": {
-		"name": "Red T",
-		"email": "toan.vp98.wapmaster@gmail.com",
-		"url": "https://github.com/MrT98"
+		"name": "Sun Rai",
+		"email": "sunrai1542@gmail.com",
+		"url": "https://github.com/sunrai69"
 	},
 	"license": "ISC"
 }
